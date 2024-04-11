@@ -1,6 +1,6 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"> <code>[<img src="https://img.upanh.tv/2024/04/11/68747470733a2f2f692e6962622e636f2f7331504c564e5a2f7070332e706e67.png" height="110px">](https://portfolio-web-rho-ten.vercel.app/home)⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
+# <h1 align="center"> <code>[<img src="https://img.upanh.tv/2024/04/11/68747470733a2f2f692e6962622e636f2f7331504c564e5a2f7070332e706e67.png" height="110px">](https://portfolio-web-rho-ten.vercel.app/home)⠀Hi there⠀|⠀⠀👋⠀⠀| [<img src="https://i.ibb.co/F7cQC4D/5.png" background="#fff" height="110px">]</code> </h1>
 
 #### Hello, my name is Hai.
 
