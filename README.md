@@ -20,11 +20,3 @@
 # > <code>⠀⠀💻⠀⠀Tech Stack⠀⠀</code>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-# > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
-
-| ![Ookami](https://github-readme-stats.vercel.app/api/pin/?username=PintoGamer64&show_owner=true&repo=Classroom_Uniminuto&theme=radical&hide_border=true) | ![SofiaPlus](https://github-readme-stats.vercel.app/api/pin/?username=SENA-tech&show_owner=true&repo=SofiaPlus&theme=radical&hide_border=true) |
-| ----- | ----- |
-
-# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PintoGamer64&theme=react-dark&hide_title=true&radius=10&area=true)](https://github.com/PintoGamer64)
-
