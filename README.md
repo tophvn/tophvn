@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.upanh.tv/2024/04/11/68747470733a2f2f692e6962622e636f2f7331504c564e5a2f7070332e706e67.png" height="110px" alt="Profile Image" /> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=400&height=100&lines=HoangToph" alt="Typing SVG" />
+  <img src="https://img.upanh.tv/2024/04/11/68747470733a2f2f692e6962622e636f2f7331504c564e5a2f7070332e706e67.png" height="110px" alt="Profile Image" /> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=400&height=100&lines=Hoang" alt="Typing SVG" />
 </div>
 
 #### Hello, my name is Hai.
